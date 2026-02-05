@@ -1,0 +1,1 @@
+print(f"La suma de los primeros 100 números es: {100*101/2}")
